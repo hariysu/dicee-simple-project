@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1E682252-06F4-4C7E-8540-66BE61A8FDD1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFE2A235-87DF-44F2-B137-F2703708D9D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicee-iOS13/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FFE2A235-87DF-44F2-B137-F2703708D9D7 - f61b24a2a81d151d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.ViewController.diceImageViewOne.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abd/Development/iOS-Dev/Dicee%20Simple%20Project/Dicee-iOS13/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FFE2A235-87DF-44F2-B137-F2703708D9D7 - 107e907ce098f909"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.ViewController.diceImageViewOne.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abd/Development/iOS-Dev/Dicee%20Simple%20Project/Dicee-iOS13/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "FFE2A235-87DF-44F2-B137-F2703708D9D7 - 1a551d187f7ab01a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.ViewController.diceImageViewOne.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abd/Development/iOS-Dev/Dicee%20Simple%20Project/Dicee-iOS13/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "FFE2A235-87DF-44F2-B137-F2703708D9D7 - 7da293e64ec8d8a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.ViewController.diceImageViewOne.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abd/Development/iOS-Dev/Dicee%20Simple%20Project/Dicee-iOS13/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "FFE2A235-87DF-44F2-B137-F2703708D9D7 - b671d37b49a3cefc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Dicee_iOS13.ViewController"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abd/Development/iOS-Dev/Dicee%20Simple%20Project/Dicee-iOS13/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "FFE2A235-87DF-44F2-B137-F2703708D9D7 - 11b9bf3cd4ce9b85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Dicee_iOS13.ViewController&gt;"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abd/Development/iOS-Dev/Dicee%20Simple%20Project/Dicee-iOS13/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "855F557E-46CF-4742-A9B4-C954685559EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicee-iOS13/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
